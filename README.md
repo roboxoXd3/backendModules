@@ -22,3 +22,7 @@ This project contains reusable backend modules for Django applications. Currentl
 
 To run tests, use the following command:
 `python manage.py test authentication`
+
+## Getting Code Notes
+
+To get detailed notes and documentation for the code in this project, you can visit the [Code Notes](https://www.notion.so/Django-Learning-5abaf61e186a4fc9b3193af9fcb80d26?pvs=4) page.
